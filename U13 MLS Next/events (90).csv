@@ -1,0 +1,10 @@
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2
+Cedar Stars,Start,Dribble,0,0,75,50,84,45
+Cedar Stars,End,Press,0,0,84,45,-,-
+Cedar Stars,Start,Dribble,0,0,91,15,94,26
+Cedar Stars,Middle,Pass,0,0,95,29,91,42
+Cedar Stars,End,Sustained Possession,0,0,90,41,-,-
+Cedar Stars,End,Cutback,0,0,91,42,-,-
+Cedar Stars,Start,Dribble,0,0,15,16,6,25
+Cedar Stars,Middle,Pass,0,0,5,25,8,41
+Cedar Stars,End,Press,0,0,8,41,-,-

@@ -1,0 +1,18 @@
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2
+U13,Start,Pass,0,0,45,34,51,46
+U13,Middle,Pass,0,0,55,48,81,72
+U13,Middle,Pass,0,0,87,72,93,43
+U13,End,Direct Play,0,0,93,43,-,-
+U13,Start,Dribble,0,0,50,50,45,39
+U13,Middle,Pass,0,0,45,40,30,16
+U13,Middle,Dribble,0,0,30,17,26,28
+U13,End,Direct Play,0,0,26,29,-,-
+Seacoast,Start,Pass,0,0,37,30,30,35
+Seacoast,Middle,Pass,0,0,30,36,32,58
+Seacoast,End,Counterpress,0,0,26,60,-,-
+Seacoast,End,Direct Play,0,0,25,61,-,-
+Seacoast,End,Throw In,0,0,25,61,-,-
+Seacoast,Start,Pass,0,0,31,85,17,62
+Seacoast,End,Free Kick,0,0,17,61,-,-
+Seacoast,Start,Dribble,0,0,61,50,75,47
+Seacoast,End,Press,0,0,75,47,-,-

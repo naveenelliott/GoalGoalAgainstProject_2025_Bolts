@@ -1,0 +1,10 @@
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2
+New York City FC,Start,Pass,0,0,72,65,78,70
+New York City FC,Middle,Dribble,0,0,78,70,96,66
+New York City FC,Middle,Pass,0,0,96,65,91,55
+New York City FC,End,Cutback,0,0,90,55,-,-
+New York City FC,End,Direct Play,0,0,90,55,-,-
+New York City FC,Start,Dribble,0,0,62,5,89,26
+New York City FC,Middle,Pass,0,0,88,26,90,45
+New York City FC,End,Counterattack,0,0,90,45,-,-
+New York City FC,End,Direct Play,0,0,90,45,-,-
