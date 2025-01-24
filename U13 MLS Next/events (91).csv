@@ -7,12 +7,12 @@ U13,Start,Dribble,0,0,50,50,45,39
 U13,Middle,Pass,0,0,45,40,30,16
 U13,Middle,Dribble,0,0,30,17,26,28
 U13,End,Direct Play,0,0,26,29,-,-
-Bayside,Start,Pass,0,0,37,30,30,35
-Bayside,Middle,Pass,0,0,30,36,32,58
-Bayside,End,Counterpress,0,0,26,60,-,-
-Bayside,End,Direct Play,0,0,25,61,-,-
-Bayside,End,Throw In,0,0,25,61,-,-
-Bayside,Start,Pass,0,0,31,85,17,62
-Bayside,End,Free Kick,0,0,17,61,-,-
-Bayside,Start,Dribble,0,0,61,50,75,47
-Bayside,End,Press,0,0,75,47,-,-
+Seacoast,Start,Pass,0,0,37,30,30,35
+Seacoast,Middle,Pass,0,0,30,36,32,58
+Seacoast,End,Counterpress,0,0,26,60,-,-
+Seacoast,End,Direct Play,0,0,25,61,-,-
+Seacoast,End,Throw In,0,0,25,61,-,-
+Seacoast,Start,Pass,0,0,31,85,17,62
+Seacoast,End,Free Kick,0,0,17,61,-,-
+Seacoast,Start,Dribble,0,0,61,50,75,47
+Seacoast,End,Press,0,0,75,47,-,-
