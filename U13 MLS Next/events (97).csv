@@ -1,0 +1,12 @@
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2
+U13,Start,Pass,0,0,42,34,52,48
+U13,Middle,Pass,0,0,46,46,7,94
+U13,Middle,Dribble,0,0,6,93,10,86
+U13,Middle,Pass,0,0,10,86,22,66
+U13,Middle,Dribble,0,0,21,65,21,58
+U13,End,Direct Play,0,0,20,59,-,-
+U13,Start,Pass,0,0,97,3,95,8
+U13,Middle,Pass,0,0,94,7,82,9
+U13,Middle,Pass,0,0,81,9,91,56
+U13,End,Corner Kick,0,0,91,55,-,-
+IFA,Solo,Free Kick,0,0,74,48,-,-

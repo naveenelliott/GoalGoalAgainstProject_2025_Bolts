@@ -1,0 +1,17 @@
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2
+U13,Start,Pass,0,0,64,70,64,62
+U13,Middle,Dribble,0,0,63,62,75,63
+U13,Middle,Pass,0,0,74,62,79,33
+U13,Middle,Dribble,0,0,80,32,87,34
+U13,End,Press,0,0,86,35,-,-
+NEFC,Start,Pass,0,0,51,55,26,29
+NEFC,Middle,Dribble,0,0,25,29,13,33
+NEFC,End,Counterpress,0,0,13,33,-,-
+NEFC,End,Counterattack,0,0,12,33,-,-
+NEFC,Start,Pass,0,0,21,13,15,54
+NEFC,End,Free Kick,0,0,15,53,-,-
+NEFC,Start,Pass,0,0,67,53,68,44
+NEFC,Middle,Dribble,0,0,68,44,89,30
+NEFC,Middle,Pass,0,0,89,29,85,51
+NEFC,End,Cutback,0,0,84,52,-,-
+NEFC,End,Counterpress,0,0,84,52,-,-

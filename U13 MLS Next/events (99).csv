@@ -1,0 +1,17 @@
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2
+U13,Start,Pass,0,0,42,30,47,26
+U13,Middle,Dribble,0,0,47,25,66,21
+U13,Middle,Pass,0,0,65,20,74,10
+U13,Middle,Dribble,0,0,74,9,93,27
+U13,Middle,Pass,0,0,93,26,87,43
+U13,End,Free Kick,0,0,87,43,-,-
+U13,End,Cutback,0,0,86,43,-,-
+U13,End,Direct Play,0,0,86,42,-,-
+Beachside
+,Solo,Counterpress,0,0,22,48,-,-
+Beachside
+,Solo,Free Kick,0,0,21,82,-,-
+Beachside
+,Start,Pass,0,0,66,10,86,47
+Beachside
+,End,Free Kick,0,0,87,52,-,-

@@ -1,0 +1,30 @@
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2,Opposition
+U13,Start,Pass,0,0,57,3,57,19,Valeo
+U13,Middle,Dribble,0,0,57,19,50,42,Valeo
+U13,Middle,Pass,0,0,50,41,45,50,Valeo
+U13,Middle,Dribble,0,0,45,49,37,52,Valeo
+U13,Middle,Pass,0,0,36,54,23,49,Valeo
+U13,Middle,Dribble,0,0,23,48,10,49,Valeo
+U13,End,Sustained Possession,0,0,10,49,-,-,Valeo
+U13,Start,Pass,0,0,15,50,15,29,Valeo
+U13,Middle,Pass,0,0,17,29,25,12,Valeo
+U13,Middle,Pass,0,0,24,12,24,28,Valeo
+U13,Middle,Pass,0,0,25,30,38,26,Valeo
+U13,Middle,Pass,0,0,38,24,55,9,Valeo
+U13,Middle,Dribble,0,0,55,9,82,27,Valeo
+U13,End,Sustained Possession,0,0,82,28,-,-,Valeo
+U13,Start,Pass,0,0,22,50,29,57,Valeo
+U13,Middle,Pass,0,0,29,57,43,48,Valeo
+U13,Middle,Pass,0,0,43,48,48,22,Valeo
+U13,Middle,Pass,0,0,48,22,55,4,Valeo
+U13,Middle,Pass,0,0,62,7,71,10,Valeo
+U13,Middle,Pass,0,0,75,8,87,26,Valeo
+U13,Middle,Dribble,0,0,86,25,96,34,Valeo
+U13,Middle,Pass,0,0,95,33,90,48,Valeo
+U13,End,Cutback,0,0,90,47,-,-,Valeo
+U13,End,Sustained Possession,0,0,90,47,-,-,Valeo
+U13,Start,Pass,0,0,29,30,42,24,Valeo
+U13,Middle,Pass,0,0,47,24,70,7,Valeo
+U13,Middle,Dribble,0,0,69,7,86,21,Valeo
+U13,Middle,Pass,0,0,86,20,91,54,Valeo
+U13,End,Sustained Possession,0,0,90,55,-,-,Valeo
