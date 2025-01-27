@@ -1,0 +1,12 @@
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2,Opposition
+U14,Start,Pass,0,0,44,39,64,43,Valeo
+U14,Middle,Dribble,0,0,64,43,82,48,Valeo
+U14,End,Counterpress,0,0,81,47,-,-,Valeo
+U14,End,Counterattack,0,0,81,48,-,-,Valeo
+U14,Start,Pass,0,0,68,77,70,66,Valeo
+U14,Middle,Pass,0,0,69,65,81,71,Valeo
+U14,Middle,Pass,0,0,86,70,86,50,Valeo
+U14,Middle,Dribble,0,0,85,49,96,54,Valeo
+U14,End,Direct Play,0,0,94,54,-,-,Valeo
+U14,Start,Pass,0,0,98,97,97,41,Valeo
+U14,End,Corner Kick,0,0,97,41,-,-,Valeo

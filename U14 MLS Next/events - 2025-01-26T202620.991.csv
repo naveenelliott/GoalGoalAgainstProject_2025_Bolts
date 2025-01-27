@@ -1,0 +1,34 @@
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2
+U14,Start,Pass,0,0,21,24,7,48
+U14,End,Free Kick,0,0,6,47,-,-
+U14,Start,Pass,0,0,57,63,20,69
+U14,Middle,Dribble,0,0,20,71,5,68
+U14,End,Counterattack,0,0,4,68,-,-
+U14,End,Direct Play,0,0,4,68,-,-
+U14,Start,Pass,0,0,19,40,28,46
+U14,Middle,Dribble,0,0,28,47,39,47
+U14,Middle,Pass,0,0,40,45,43,28
+U14,Middle,Dribble,0,0,42,27,49,34
+U14,Middle,Pass,0,0,48,33,72,19
+U14,Middle,Dribble,0,0,73,20,95,34
+U14,End,Sustained Possession,0,0,95,33,-,-
+Westchester,,,,,,,,
+,Solo,Press,0,0,92,39,-,-
+Westchester,,,,,,,,
+,Start,Pass,0,0,98,95,81,39
+Westchester,,,,,,,,
+,Middle,Pass,0,0,74,31,83,23
+Westchester,,,,,,,,
+,Middle,Dribble,0,0,82,22,82,29
+Westchester,,,,,,,,
+,End,Corner Kick,0,0,82,30,-,-
+Westchester,,,,,,,,
+,Start,Pass,0,0,65,52,74,29
+Westchester,,,,,,,,
+,Middle,Dribble,0,0,74,30,90,34
+Westchester,,,,,,,,
+,Middle,Pass,0,0,90,33,81,35
+Westchester,,,,,,,,
+,End,Counterattack,0,0,81,35,-,-
+Westchester,,,,,,,,
+,Solo,Penalty,0,0,10,50,-,-

@@ -1,0 +1,50 @@
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2
+U14,Start,Pass,0,0,69,59,48,60
+U14,Middle,Pass,0,0,48,60,33,54
+U14,Middle,Dribble,0,0,32,55,14,53
+U14,End,Counterattack,0,0,13,54,-,-
+New York City FC
+
+,Start,Pass,0,0,70,35,79,54
+New York City FC
+
+,End,Press,0,0,79,54,-,-
+New York City FC
+
+,Start,Dribble,0,0,72,5,80,39
+New York City FC
+
+,End,Direct Play,0,0,80,38,-,-
+New York City FC
+
+,Start,Dribble,0,0,65,87,63,73
+New York City FC
+
+,Middle,Pass,0,0,62,74,82,70
+New York City FC
+
+,Middle,Dribble,0,0,81,71,95,71
+New York City FC
+
+,Middle,Pass,0,0,95,71,89,37
+New York City FC
+
+,End,Cutback,0,0,89,36,-,-
+New York City FC
+
+,End,Counterpress,0,0,89,36,-,-
+New York City FC
+
+,End,Direct Play,0,0,89,37,-,-
+New York City FC
+
+,Start,Pass,0,0,76,81,93,45
+New York City FC
+
+,End,Free Kick,0,0,93,45,-,-
+New York City FC
+
+,Start,Pass,0,0,63,58,89,62
+New York City FC
+
+,End,Sustained Possession *,0,0,89,62,-,-
