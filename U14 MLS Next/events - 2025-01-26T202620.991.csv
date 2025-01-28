@@ -12,23 +12,13 @@ U14,Middle,Dribble,0,0,42,27,49,34
 U14,Middle,Pass,0,0,48,33,72,19
 U14,Middle,Dribble,0,0,73,20,95,34
 U14,End,Sustained Possession,0,0,95,33,-,-
-Westchester,,,,,,,,
-,Solo,Press,0,0,92,39,-,-
-Westchester,,,,,,,,
-,Start,Pass,0,0,98,95,81,39
-Westchester,,,,,,,,
-,Middle,Pass,0,0,74,31,83,23
-Westchester,,,,,,,,
-,Middle,Dribble,0,0,82,22,82,29
-Westchester,,,,,,,,
-,End,Corner Kick,0,0,82,30,-,-
-Westchester,,,,,,,,
-,Start,Pass,0,0,65,52,74,29
-Westchester,,,,,,,,
-,Middle,Dribble,0,0,74,30,90,34
-Westchester,,,,,,,,
-,Middle,Pass,0,0,90,33,81,35
-Westchester,,,,,,,,
-,End,Counterattack,0,0,81,35,-,-
-Westchester,,,,,,,,
-,Solo,Penalty,0,0,10,50,-,-
+Westchester,Solo,Press,0,0,92,39,-,-
+Westchester,Start,Pass,0,0,98,95,81,39
+Westchester,Middle,Pass,0,0,74,31,83,23
+Westchester,Middle,Dribble,0,0,82,22,82,29
+Westchester,End,Corner Kick,0,0,82,30,-,-
+Westchester,Start,Pass,0,0,65,52,74,29
+Westchester,Middle,Dribble,0,0,74,30,90,34
+Westchester,Middle,Pass,0,0,90,33,81,35
+Westchester,End,Counterattack,0,0,81,35,-,-
+Westchester,Solo,Penalty,0,0,10,50,-,-
