@@ -1,0 +1,13 @@
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2
+U17,Start,Pass,33,53,72,11,64,22
+U17,Middle,Pass,33,53,64,23,76,36
+U17,Middle,Pass,33,53,76,36,87,37
+U17,End,Sustained Possession,33,53,88,46,-,-
+NEFC,Start,Dribble,33,53,44,49,28,28
+NEFC,Middle,Pass,33,53,27,28,13,60
+NEFC,End,Counterattack,33,53,8,56,-,-
+NEFC,Solo,Free Kick,33,53,19,92,-,-
+NEFC,Start,Pass,33,53,27,40,19,27
+NEFC,End,Counterattack,33,53,16,35,-,-
+NEFC,Start,Pass,33,53,86,68,91,60
+NEFC,End,Direct Play,33,53,97,57,-,-
