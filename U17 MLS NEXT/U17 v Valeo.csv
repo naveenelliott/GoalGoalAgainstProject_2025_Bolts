@@ -1,0 +1,12 @@
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2
+U17,Start,Corner Kick,33,53,98,95,93,94
+U17,Middle,Dribble,33,53,93,94,83,77
+U17,Middle,Pass,33,53,83,75,95,49
+U17,End,Corner Kick,33,53,95,49,-,-
+U17,Solo,Free Kick,33,53,79,28,-,-
+Valeo,Start,Pass,33,53,68,21,85,37
+Valeo,End,Free Kick,33,53,93,34,-,-
+Valeo,Start,Pass,33,53,25,42,72,86
+Valeo,Middle,Dribble,33,53,72,85,86,82
+Valeo,Middle,Pass,33,53,86,78,81,56
+Valeo,End,Direct Play,33,53,84,55,-,-
