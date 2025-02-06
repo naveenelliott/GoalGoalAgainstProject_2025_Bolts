@@ -1,0 +1,13 @@
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2,Opponent
+U17,Start,Pass,74,7,72,43,87,30,Oakwood
+U17,Middle,Dribble,74,7,88,29,98,33,
+U17,Middle,Pass,74,7,98,33,95,59,
+U17,End,Cutback,74,7,95,58,-,-,
+U17,Solo,Penalty,74,7,11,50,-,-,
+U17,Start,Pass,74,7,61,72,71,68,
+U17,Middle,Dribble,74,7,70,68,82,64,
+U17,Middle,Pass,74,7,83,63,88,37,
+U17,End,Direct Play,74,7,94,40,-,-,
+U17,Start,Pass,74,7,75,38,87,39,
+U17,Middle,Dribble,74,7,87,39,94,43,
+U17,End,Sustained Possession,74,7,94,44,-,-,
