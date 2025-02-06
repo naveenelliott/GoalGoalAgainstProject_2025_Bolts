@@ -1,0 +1,18 @@
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2
+U17,Start,Pass,35,10,84,94,94,88
+U17,Middle,Pass,35,43,94,89,57,83
+U17,Middle,Pass,36,3,58,83,69,78
+U17,Middle,Pass,36,35,69,80,30,76
+U17,Middle,Dribble,37,10,29,76,17,50
+U17,End,Direct Play,37,39,15,48,-,-
+U17,Start,Dribble,41,58,46,31,84,37
+U17,Middle,Pass,42,20,84,36,91,27
+U17,Middle,Pass,42,49,91,30,88,45
+U17,Middle,Dribble,43,5,89,44,95,41
+U17,End,Counterattack,43,21,95,41,-,-
+U17,Start,Pass,46,5,14,57,18,73
+U17,Middle,Pass,46,25,19,74,65,59
+U17,Middle,Dribble,46,46,66,58,89,72
+U17,End,Counterattack,46,52,89,72,-,-
+Met Oval,Start,Pass,53,7,21,9,22,27
+Met Oval,End,Press,53,34,18,30,-,-
