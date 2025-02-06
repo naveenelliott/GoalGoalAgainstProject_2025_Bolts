@@ -1,0 +1,7 @@
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2
+NYCFC,Start,Pass,74,10,88,73,79,48
+NYCFC,Middle,Pass,74,10,79,49,98,53
+NYCFC,End,Cutback,74,10,98,54,-,-
+U19,Start,Pass,74,10,69,49,85,84
+U19,Middle,Pass,74,10,85,83,95,49
+U19,End,Sustained Possession,74,10,96,57,-,-
