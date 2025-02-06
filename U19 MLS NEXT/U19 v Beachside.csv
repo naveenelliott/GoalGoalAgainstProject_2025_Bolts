@@ -1,0 +1,7 @@
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2
+Beachside,Start,Pass,74,7,76,21,82,35
+Beachside,Middle,Pass,74,7,82,36,78,59
+Beachside,End,Counterattack,74,7,78,60,-,-
+U19,Start,Pass,74,7,13,1,24,5
+U19,Middle,Pass,74,7,24,6,8,60
+U19,End,Throw In,74,7,8,60,-,-
