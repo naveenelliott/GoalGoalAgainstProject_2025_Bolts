@@ -1,0 +1,22 @@
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2
+U17,Start,Pass,74,7,37,66,3,72
+U17,Middle,Pass,74,7,3,72,4,53
+U17,End,Cutback,74,7,4,53,-,-
+U17,Start,Dribble,74,7,25,79,23,61
+U17,End,Counterpress,74,7,23,61,-,-
+U17,Start,Pass,74,7,4,27,23,2
+U17,Middle,Pass,74,7,23,2,16,27
+U17,Middle,Pass,74,7,16,29,27,46
+U17,Middle,Dribble,74,7,27,46,41,46
+U17,Middle,Pass,74,7,41,46,67,59
+U17,Middle,Dribble,74,7,66,59,83,62
+U17,End,Direct Play,74,7,84,63,-,-
+U17,Start,Dribble,74,7,32,15,71,49
+U17,Middle,Pass,74,7,71,50,86,69
+U17,Middle,Dribble,74,7,86,69,93,66
+U17,End,Counterattack,74,7,93,65,-,-
+Valeo,Start,Pass,74,7,10,71,13,50
+Valeo,End,Cutback,74,7,13,50,-,-
+U17,Start,Pass,74,7,30,85,76,66
+U17,Middle,Dribble,74,7,76,66,84,71
+U17,End,Direct Play,74,7,84,70,-,-
