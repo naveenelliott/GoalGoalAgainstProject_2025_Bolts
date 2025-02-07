@@ -1,0 +1,21 @@
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2
+U14,Start,Pass,0,10,55,60,62,80
+U14,Middle,Dribble,0,10,61,82,65,98
+U14,Middle,Pass,0,10,64,98,90,89
+U14,Middle,Dribble,0,10,89,87,96,64
+U14,End,Direct Play,0,10,96,64,-,-
+U14,Start,Pass,0,10,44,19,56,20
+U14,Middle,Pass,0,10,56,20,55,27
+U14,Middle,Pass,0,10,55,28,63,12
+U14,Middle,Dribble,0,10,62,11,88,28
+U14,End,Throw In,0,10,88,29,-,-
+U14,End,Direct Play,0,10,88,30,-,-
+Valeo
+
+,Start,Pass,0,10,98,97,91,44
+Valeo
+
+,End,Corner Kick,0,10,91,45,-,-
+Valeo
+
+,Solo,Penalty,0,10,89,50,-,-

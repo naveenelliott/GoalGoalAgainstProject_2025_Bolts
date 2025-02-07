@@ -1,0 +1,38 @@
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2
+U14,Start,Pass,0,0,65,67,64,54
+U14,Middle,Dribble,0,0,64,56,26,67
+U14,Middle,Pass,0,0,26,69,17,71
+U14,Middle,Dribble,0,0,17,72,11,70
+U14,End,Counterattack,0,0,10,70,-,-
+U14,End,Direct Play,0,0,10,70,-,-
+U14,Start,Pass,0,0,55,99,71,86
+U14,Middle,Pass,0,0,70,85,71,79
+U14,Middle,Pass,0,0,70,80,74,61
+U14,Middle,Dribble,0,0,73,61,86,57
+U14,Middle,Pass,0,0,85,57,87,62
+U14,Middle,Dribble,0,0,86,62,92,47
+U14,End,Throw In,0,0,92,46,-,-
+U14,Start,Pass,0,0,29,99,39,89
+U14,Middle,Pass,0,0,39,89,47,88
+U14,Middle,Dribble,0,0,47,89,62,86
+U14,Middle,Pass,0,0,62,87,67,76
+U14,Middle,Pass,0,0,66,77,63,45
+U14,Middle,Pass,0,0,63,43,71,46
+U14,End,Throw In,0,0,72,47,-,-
+U14,End,Sustained Possession,0,0,71,46,-,-
+Beachside,Start,Pass,0,0,63,66,69,49
+Beachside,End,Free Kick,0,0,69,49,-,-
+Beachside,Start,Pass,0,0,75,1,85,12
+Beachside,Middle,Dribble,0,0,84,12,97,28
+Beachside,Middle,Pass,0,0,97,28,94,45
+Beachside,End,Cutback,0,0,94,45,-,-
+Beachside,End,Throw In,0,0,93,45,-,-
+Beachside,Start,Pass,0,0,33,40,26,48
+Beachside,Middle,Dribble,0,0,25,47,20,38
+Beachside,Middle,Pass,0,0,20,38,10,44
+Beachside,End,Press,0,0,10,45,-,-
+Beachside,Start,Pass,0,0,66,89,56,86
+Beachside,Middle,Dribble,0,0,56,85,13,71
+Beachside,Middle,Pass,0,0,13,71,10,44
+Beachside,End,Counterattack,0,0,10,43,-,-
+Beachside,End,Counterpress,0,0,10,44,-,-

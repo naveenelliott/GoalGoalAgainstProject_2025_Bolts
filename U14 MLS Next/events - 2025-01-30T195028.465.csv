@@ -1,0 +1,19 @@
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2
+NE Revolution,Start,Pass,0,0,30,18,13,48
+NE Revolution,End,Sustained Possession *,0,0,12,47,-,-
+NE Revolution,Start,Dribble,0,0,26,21,9,49
+NE Revolution,End,Press,0,0,8,49,-,-
+NE Revolution,Start,Dribble,0,0,12,38,5,49
+NE Revolution,End,Counterpress,0,0,5,49,-,-
+NE Revolution,Start,Pass,0,0,30,91,23,71
+NE Revolution,Middle,Pass,0,0,22,70,29,70
+NE Revolution,Middle,Pass,0,0,29,71,18,71
+NE Revolution,Middle,Dribble,0,0,17,72,6,59
+NE Revolution,End,Sustained Possession,0,0,5,58,-,-
+NE Revolution,Start,Pass,0,0,85,91,91,50
+NE Revolution,End,Sustained Possession *,0,0,91,51,-,-
+NE Revolution,Start,Pass,0,0,68,29,80,15
+NE Revolution,End,Sustained Possession *,0,0,77,24,-,-
+NE Revolution,Start,Dribble,0,0,71,70,88,42
+NE Revolution,End,Press,0,0,87,41,-,-
+NE Revolution,End,Direct Play,0,0,88,42,-,-

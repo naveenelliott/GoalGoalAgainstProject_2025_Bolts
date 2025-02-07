@@ -1,0 +1,14 @@
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2
+U14,Start,Pass,0,10,43,77,56,41
+U14,Middle,Dribble,0,10,57,43,66,48
+U14,Middle,Pass,0,10,65,47,94,65
+U14,End,Direct Play,0,10,94,65,-,-
+U14,Start,Pass,0,10,98,3,93,47
+U14,Middle,Pass,0,10,93,47,98,38
+U14,Middle,Pass,0,10,98,37,97,47
+U14,End,Corner Kick,0,10,97,47,-,-
+NE Revolution,Start,Pass,0,0,26,73,22,76
+NE Revolution,Middle,Dribble,0,0,22,76,7,53
+NE Revolution,End,Sustained Possession *,0,0,6,52,-,-
+NE Revolution,Start,Dribble,0,0,25,19,7,36
+NE Revolution,End,Sustained Possession *,0,0,7,35,-,-

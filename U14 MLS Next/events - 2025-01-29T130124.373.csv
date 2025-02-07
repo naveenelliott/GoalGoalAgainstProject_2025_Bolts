@@ -1,0 +1,25 @@
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2
+U14,Start,Pass,0,0,9,63,19,57
+U14,Middle,Pass,0,0,19,57,28,94
+U14,Middle,Dribble,0,0,27,95,56,89
+U14,Middle,Pass,0,0,55,90,67,59
+U14,Middle,Pass,0,0,67,58,79,64
+U14,Middle,Dribble,0,0,80,65,87,65
+U14,Middle,Pass,0,0,87,65,89,50
+U14,End,Sustained Possession,0,0,89,50,-,-
+U14,End,Counterattack,0,0,89,50,-,-
+U14,Start,Pass,0,0,70,50,86,69
+U14,Middle,Dribble,0,0,86,68,86,62
+U14,End,Free Kick,0,0,86,61,-,-
+U14,Start,Pass,0,0,77,72,74,65
+U14,Middle,Dribble,0,0,74,66,64,51
+U14,Middle,Pass,0,0,64,51,40,4
+U14,Middle,Dribble,0,0,39,5,17,31
+U14,Middle,Pass,0,0,17,32,5,32
+U14,End,Counterattack,0,0,4,32,-,-
+U14,End,Direct Play,0,0,5,32,-,-
+FA Euro,Solo,Press,0,0,10,28,-,-
+FA Euro,Start,Pass,0,0,82,0,94,19
+FA Euro,Middle,Pass,0,0,94,19,93,45
+FA Euro,End,Cutback,0,0,93,45,-,-
+FA Euro,End,Throw In,0,0,93,45,-,-
