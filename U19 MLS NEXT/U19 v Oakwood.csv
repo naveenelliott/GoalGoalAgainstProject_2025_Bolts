@@ -1,0 +1,23 @@
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2
+U19,Start,Pass,104,32,68,92,73,83
+U19,Middle,Pass,104,32,73,82,93,86
+U19,Middle,Pass,104,32,93,87,94,51
+U19,End,Direct Play,104,32,94,51,-,-
+U19,Start,Pass,104,32,44,42,74,14
+U19,Middle,Dribble,104,32,75,14,95,37
+U19,End,Counterattack,104,32,95,37,-,-
+U19,Start,Pass,104,32,10,29,12,41
+U19,Middle,Pass,104,32,12,41,11,62
+U19,End,Press,104,32,10,62,-,-
+U19,Start,Dribble,104,32,54,38,43,43
+U19,Middle,Pass,104,32,43,44,22,65
+U19,Middle,Dribble,104,32,21,65,13,57
+U19,End,Counterattack,104,32,12,57,-,-
+Oakwood,Start,Pass,104,32,69,32,83,18
+Oakwood,Middle,Dribble,104,32,84,18,93,34
+Oakwood,End,Counterattack,104,32,94,34,-,-
+Oakwood,Start,Pass,104,32,47,40,90,53
+Oakwood,End,Direct Play,104,32,90,53,-,-
+U19,Start,Pass,104,32,10,96,3,67
+U19,Middle,Pass,104,32,3,67,8,63
+U19,End,Throw In,104,32,8,61,-,-

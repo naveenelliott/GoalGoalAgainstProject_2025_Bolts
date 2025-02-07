@@ -1,0 +1,26 @@
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2
+U17,Start,Pass,71,20,91,95,93,88
+U17,Middle,Pass,71,20,94,88,94,97
+U17,Middle,Pass,71,20,94,95,88,85
+U17,Middle,Pass,71,20,88,81,95,77
+U17,Middle,Dribble,71,20,95,76,97,67
+U17,End,Throw In,71,20,97,67,-,-
+U17,Start,Pass,71,20,41,86,34,79
+U17,Middle,Pass,71,20,37,77,75,80
+U17,Middle,Dribble,71,20,76,79,81,61
+U17,End,Counterattack,71,20,82,62,-,-
+U17,Start,Dribble,71,20,82,70,73,53
+U17,Middle,Pass,71,20,73,55,54,53
+U17,Middle,Dribble,71,20,53,54,20,37
+U17,Middle,Pass,71,20,19,37,7,25
+U17,Middle,Pass,71,20,6,25,3,43
+U17,End,Counterattack,71,20,3,44,-,-
+U17,Start,Pass,71,20,77,29,51,8
+U17,Middle,Dribble,71,20,48,7,9,25
+U17,Middle,Pass,71,20,9,25,6,56
+U17,End,Counterattack,71,20,5,56,-,-
+Bayside,Start,Pass,71,20,43,73,50,69
+Bayside,Middle,Pass,71,20,50,70,53,63
+Bayside,Middle,Dribble,71,20,52,64,71,68
+Bayside,End,Direct Play,71,20,71,68,-,-
+Bayside,Solo,Free Kick,71,20,75,35,-,-

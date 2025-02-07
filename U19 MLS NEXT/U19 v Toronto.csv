@@ -1,0 +1,8 @@
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2
+Toronto,Start,Dribble,104,32,16,71,7,70
+Toronto,Middle,Pass,104,32,7,70,8,55
+Toronto,End,Cutback,104,32,8,55,-,-
+U19,Start,Dribble,104,32,86,58,87,46
+U19,End,Press,104,32,88,46,-,-
+U19,Start,Pass,104,32,99,2,95,55
+U19,End,Corner Kick,104,32,95,55,-,-

@@ -1,0 +1,14 @@
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2
+U19,Start,Pass,74,10,64,31,93,59
+U19,Middle,Pass,74,10,93,59,94,46
+U19,End,Free Kick,74,10,94,46,-,-
+U19,Start,Pass,74,10,48,21,30,26
+U19,Middle,Pass,74,10,30,26,41,31
+U19,Middle,Pass,74,10,41,31,27,34
+U19,Middle,Dribble,74,10,27,34,16,33
+U19,End,Sustained Possession,74,10,16,33,-,-
+Seacoast,Start,Dribble,74,10,71,83,71,73
+Seacoast,Middle,Pass,74,10,71,74,86,71
+Seacoast,Middle,Pass,74,10,86,71,89,54
+Seacoast,Middle,Dribble,74,10,89,53,94,55
+Seacoast,End,Sustained Possession,74,10,94,55,-,-
