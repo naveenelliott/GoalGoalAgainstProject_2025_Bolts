@@ -1,4 +1,4 @@
 Team,Player,Event,Mins,Secs,X,Y,X2,Y2,Opponent
 U19,Start,Pass,104,32,43,75,20,12,Seacoast
-U19,Middle,Pass,104,32,19,12,6,49,
-U19,End,Direct Play,104,32,6,49,-,-,
+U19,Middle,Pass,104,32,19,12,6,49,Seacoast
+U19,End,Direct Play,104,32,6,49,-,-,Seacoast

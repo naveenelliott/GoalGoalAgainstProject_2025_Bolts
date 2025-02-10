@@ -10,12 +10,6 @@ U14,Middle,Pass,0,10,55,28,63,12
 U14,Middle,Dribble,0,10,62,11,88,28
 U14,End,Throw In,0,10,88,29,-,-
 U14,End,Direct Play,0,10,88,30,-,-
-Valeo
-
-,Start,Pass,0,10,98,97,91,44
-Valeo
-
-,End,Corner Kick,0,10,91,45,-,-
-Valeo
-
-,Solo,Penalty,0,10,89,50,-,-
+Valeo,Start,Pass,0,10,98,97,91,44
+Valeo,End,Corner Kick,0,10,91,45,-,-
+Valeo,Solo,Penalty,0,10,89,50,-,-

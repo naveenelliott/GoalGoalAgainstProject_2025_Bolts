@@ -7,11 +7,7 @@ U13,Middle,Pass,0,0,93,26,87,43
 U13,End,Free Kick,0,0,87,43,-,-
 U13,End,Cutback,0,0,86,43,-,-
 U13,End,Direct Play,0,0,86,42,-,-
-Beachside
-,Solo,Counterpress,0,0,22,48,-,-
-Beachside
-,Solo,Free Kick,0,0,21,82,-,-
-Beachside
-,Start,Pass,0,0,66,10,86,47
-Beachside
-,End,Free Kick,0,0,87,52,-,-
+Beachside,Solo,Counterpress,0,0,22,48,-,-
+Beachside,Solo,Free Kick,0,0,21,82,-,-
+Beachside,Start,Pass,0,0,66,10,86,47
+Beachside,End,Free Kick,0,0,87,52,-,-
