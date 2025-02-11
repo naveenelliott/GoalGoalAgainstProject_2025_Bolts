@@ -170,10 +170,13 @@ for idx in total.index[:-1]:  # Exclude the last row to prevent index out of ran
         total.at[idx, "Category"] = total.at[idx + 1, "Category"]
         
 for idx in range(len(total) - 1):
-    if total.loc[idx, "Player"] != "End":  # Only update if not "End"
+    if total.loc[idx, "Player"] != "End" and total.loc[idx, "Player"] != "Solo":  # Only update if not "End"
         total.loc[idx, "X2"] = total.loc[idx + 1, "X"]
         total.loc[idx, "Y2"] = total.loc[idx + 1, "Y"]
     if total.loc[idx + 1, "Player"] == "End":  # Reset on "End"
+        total.loc[idx + 1, "X2"] = None
+        total.loc[idx + 1, "Y2"] = None
+    if total.loc[idx + 1, "Player"] == "Solo":  # Reset on "End"
         total.loc[idx + 1, "X2"] = None
         total.loc[idx + 1, "Y2"] = None
         
@@ -208,7 +211,7 @@ for seq_id in total["Sequence_ID"].unique():
         total.loc[idx, "X2"] = total.loc[idx + 1, "X"]
         total.loc[idx, "Y2"] = total.loc[idx + 1, "Y"]
 
-#total.to_csv('FormattedGoalsGoalsAgainst.csv', index=False)
+total.to_csv('FormattedGoalsGoalsAgainst.csv', index=False)
 
 total = total[total["Category"].str.contains("Sustained Possession", na=False)]
 

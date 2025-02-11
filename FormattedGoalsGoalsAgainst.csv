@@ -43,7 +43,7 @@ Westchester,End,Counterattack,15,34,,,Westchester,U13,Counterattack,11
 Westchester,Start,Pass,39,64,43.0,49.0,Westchester,U13,Counterpress,12
 Westchester,Middle,Dribble,43,49,35.0,55.0,Westchester,U13,Counterpress,12
 Westchester,End,Counterpress,35,55,,,Westchester,U13,Counterpress,12
-Westchester,Solo,Counterpress,84,46,25.0,84.0,Westchester,U13,Counterpress,1044
+Westchester,Solo,Counterpress,84,46,,,Westchester,U13,Counterpress,1044
 U13,Start,Pass,25,84,28.0,74.0,New York SC,U13,Throw In,13
 U13,End,Throw In,28,74,,,New York SC,U13,Throw In,13
 New York SC,Start,Pass,70,9,80.0,6.0,New York SC,U13,Direct Play,14
@@ -108,8 +108,8 @@ U13,Middle,Pass,47,24,69.0,7.0,Valeo,U13,Sustained Possession,26
 U13,Middle,Dribble,69,7,86.0,20.0,Valeo,U13,Sustained Possession,26
 U13,Middle,Pass,86,20,90.0,55.0,Valeo,U13,Sustained Possession,26
 U13,End,Sustained Possession,90,55,,,Valeo,U13,Sustained Possession,26
-U13,Solo,Press,23,45,39.0,57.0,Oakwood,U13,Press,1109
-Oakwood,Solo,Counterpress,39,57,22.0,29.0,Oakwood,U13,Counterpress,1110
+U13,Solo,Press,23,45,,,Oakwood,U13,Press,1109
+Oakwood,Solo,Counterpress,39,57,,,Oakwood,U13,Counterpress,1110
 Oakwood,Start,Pass,22,29,25.0,35.0,Oakwood,U13,Counterpress,27
 Oakwood,End,Counterpress,25,35,,,Oakwood,U13,Counterpress,27
 U13,Start,Pass,42,34,46.0,46.0,IFA,U13,Direct Play,28
@@ -122,10 +122,10 @@ U13,Start,Pass,97,3,94.0,7.0,IFA,U13,Corner Kick,29
 U13,Middle,Pass,94,7,81.0,9.0,IFA,U13,Corner Kick,29
 U13,Middle,Pass,81,9,91.0,55.0,IFA,U13,Corner Kick,29
 U13,End,Corner Kick,91,55,,,IFA,U13,Corner Kick,29
-IFA,Solo,Free Kick,74,48,72.0,49.0,IFA,U13,Free Kick,1123
+IFA,Solo,Free Kick,74,48,,,IFA,U13,Free Kick,1123
 U13,Start,Pass,72,49,77.0,50.0,New England Revolution,U13,Press,30
 U13,End,Press,77,50,,,New England Revolution,U13,Press,30
-New England Revolution,Solo,Free Kick,74,42,57.0,54.0,New England Revolution,U13,Free Kick,1126
+New England Revolution,Solo,Free Kick,74,42,,,New England Revolution,U13,Free Kick,1126
 New England Revolution,Start,Dribble,57,54,72.0,69.0,New England Revolution,U13,Press,31
 New England Revolution,Middle,Pass,72,69,71.0,51.0,New England Revolution,U13,Press,31
 New England Revolution,Middle,Pass,71,51,73.0,35.0,New England Revolution,U13,Press,31
@@ -141,8 +141,8 @@ U13,Middle,Pass,93,26,87.0,43.0,Beachside,U13,"Free Kick, Cutback, Direct Play",
 U13,End,Free Kick,87,43,86.0,43.0,Beachside,U13,"Free Kick, Cutback, Direct Play",33
 U13,End,Cutback,86,43,86.0,42.0,Beachside,U13,"Cutback, Direct Play",33
 U13,End,Direct Play,86,42,,,Beachside,U13,Direct Play,33
-Beachside,Solo,Counterpress,22,48,21.0,82.0,Beachside,U13,Counterpress,1142
-Beachside,Solo,Free Kick,21,82,66.0,10.0,Beachside,U13,Free Kick,1143
+Beachside,Solo,Counterpress,22,48,,,Beachside,U13,Counterpress,1142
+Beachside,Solo,Free Kick,21,82,,,Beachside,U13,Free Kick,1143
 Beachside,Start,Pass,66,10,87.0,52.0,Beachside,U13,Free Kick,34
 Beachside,End,Free Kick,87,52,,,Beachside,U13,Free Kick,34
 Cedar Stars,Start,Pass,90,93,45.0,90.0,Cedar Stars,U14,"Direct Play, Cutback, Counterattack, Throw In",35
@@ -174,10 +174,10 @@ Bayside,End,Counterpress,25,51,,,Bayside,U14,Counterpress,41
 Bayside,Start,Pass,17,17,25.0,43.0,Bayside,U14,Counterpress,42
 Bayside,Middle,Pass,25,43,6.0,55.0,Bayside,U14,Counterpress,42
 Bayside,End,Counterpress,6,55,,,Bayside,U14,Counterpress,42
-Bayside,Solo,Penalty,89,50,2.0,97.0,Bayside,U14,Penalty,1175
+Bayside,Solo,Penalty,89,50,,,Bayside,U14,Penalty,1175
 U14,Start,Pass,2,97,7.0,42.0,Met Oval,U14,Corner Kick,43
 U14,End,Corner Kick,7,42,,,Met Oval,U14,Corner Kick,43
-Met Oval,Solo,Free Kick,29,67,44.0,39.0,Met Oval,U14,Free Kick,1178
+Met Oval,Solo,Free Kick,29,67,,,Met Oval,U14,Free Kick,1178
 U14,Start,Pass,44,39,64.0,43.0,Valeo,U14,"Counterpress, Counterattack",44
 U14,Middle,Dribble,64,43,81.0,47.0,Valeo,U14,"Counterpress, Counterattack",44
 U14,End,Counterpress,81,47,81.0,48.0,Valeo,U14,"Counterpress, Counterattack",44
@@ -202,7 +202,7 @@ U14,Middle,Dribble,42,27,48.0,33.0,Westchester,U14,Sustained Possession,49
 U14,Middle,Pass,48,33,73.0,20.0,Westchester,U14,Sustained Possession,49
 U14,Middle,Dribble,73,20,95.0,33.0,Westchester,U14,Sustained Possession,49
 U14,End,Sustained Possession,95,33,,,Westchester,U14,Sustained Possession,49
-Westchester,Solo,Press,92,39,98.0,95.0,Westchester,U14,Press,1203
+Westchester,Solo,Press,92,39,,,Westchester,U14,Press,1203
 Westchester,Start,Pass,98,95,74.0,31.0,Westchester,U14,Corner Kick,50
 Westchester,Middle,Pass,74,31,82.0,22.0,Westchester,U14,Corner Kick,50
 Westchester,Middle,Dribble,82,22,82.0,30.0,Westchester,U14,Corner Kick,50
@@ -211,7 +211,7 @@ Westchester,Start,Pass,65,52,74.0,30.0,Westchester,U14,Counterattack,51
 Westchester,Middle,Dribble,74,30,90.0,33.0,Westchester,U14,Counterattack,51
 Westchester,Middle,Pass,90,33,81.0,35.0,Westchester,U14,Counterattack,51
 Westchester,End,Counterattack,81,35,,,Westchester,U14,Counterattack,51
-Westchester,Solo,Penalty,10,50,69.0,59.0,Westchester,U14,Penalty,1212
+Westchester,Solo,Penalty,10,50,,,Westchester,U14,Penalty,1212
 U14,Start,Pass,69,59,48.0,60.0,New York City FC,U14,Counterattack,52
 U14,Middle,Pass,48,60,32.0,55.0,New York City FC,U14,Counterattack,52
 U14,Middle,Dribble,32,55,13.0,54.0,New York City FC,U14,Counterattack,52
@@ -234,12 +234,12 @@ New York City FC,End,Sustained Possession *,89,62,,,New York City FC,U14,Sustain
 U14,Start,Pass,1,96,10.0,44.0,NEFC,U14,Corner Kick,58
 U14,Middle,Pass,10,44,2.0,45.0,NEFC,U14,Corner Kick,58
 U14,End,Corner Kick,2,45,,,NEFC,U14,Corner Kick,58
-U14,Solo,Counterpress,13,68,14.0,95.0,NEFC,U14,Counterpress,1235
+U14,Solo,Counterpress,13,68,,,NEFC,U14,Counterpress,1235
 NEFC,Start,Dribble,14,95,2.0,78.0,NEFC,U14,"Counterpress, Cutback",59
 NEFC,Middle,Pass,2,78,2.0,55.0,NEFC,U14,"Counterpress, Cutback",59
 NEFC,End,Counterpress,2,55,2.0,55.0,NEFC,U14,"Counterpress, Cutback",59
 NEFC,End,Cutback,2,55,,,NEFC,U14,Cutback,59
-NEFC,Solo,Penalty,11,49,55.0,60.0,NEFC,U14,Penalty,1240
+NEFC,Solo,Penalty,11,49,,,NEFC,U14,Penalty,1240
 U14,Start,Pass,55,60,61.0,82.0,Valeo,U14,Direct Play,60
 U14,Middle,Dribble,61,82,64.0,98.0,Valeo,U14,Direct Play,60
 U14,Middle,Pass,64,98,89.0,87.0,Valeo,U14,Direct Play,60
@@ -253,7 +253,7 @@ U14,End,Throw In,88,29,88.0,30.0,Valeo,U14,"Direct Play, Throw In",61
 U14,End,Direct Play,88,30,,,Valeo,U14,Direct Play,61
 Valeo,Start,Pass,98,97,91.0,45.0,Valeo,U14,Corner Kick,62
 Valeo,End,Corner Kick,91,45,,,Valeo,U14,Corner Kick,62
-Valeo,Solo,Penalty,89,50,57.0,74.0,Valeo,U14,Penalty,1254
+Valeo,Solo,Penalty,89,50,,,Valeo,U14,Penalty,1254
 U14,Start,Pass,57,74,65.0,64.0,Oakwood,U14,Counterpress,63
 U14,Middle,Dribble,65,64,68.0,55.0,Oakwood,U14,Counterpress,63
 U14,End,Counterpress,68,55,,,Oakwood,U14,Counterpress,63
@@ -271,7 +271,7 @@ Oakwood,End,Counterpress,10,53,,,Oakwood,U14,Counterpress,66
 Oakwood,Start,Dribble,44,41,33.0,38.0,Oakwood,U14,Counterpress,67
 Oakwood,Middle,Pass,33,38,10.0,31.0,Oakwood,U14,Counterpress,67
 Oakwood,End,Counterpress,10,31,,,Oakwood,U14,Counterpress,67
-Oakwood,Solo,Penalty,11,50,36.0,9.0,Oakwood,U14,Penalty,1272
+Oakwood,Solo,Penalty,11,50,,,Oakwood,U14,Penalty,1272
 Oakwood,Start,Pass,36,9,47.0,13.0,Oakwood,U14,Direct Play,68
 Oakwood,Middle,Pass,47,13,32.0,31.0,Oakwood,U14,Direct Play,68
 Oakwood,Middle,Dribble,32,31,24.0,42.0,Oakwood,U14,Direct Play,68
@@ -372,7 +372,7 @@ U14,Middle,Dribble,39,5,17.0,32.0,FA Euro,U14,"Direct Play, Counterattack",88
 U14,Middle,Pass,17,32,4.0,32.0,FA Euro,U14,"Direct Play, Counterattack",88
 U14,End,Counterattack,4,32,5.0,32.0,FA Euro,U14,"Direct Play, Counterattack",88
 U14,End,Direct Play,5,32,,,FA Euro,U14,Direct Play,88
-FA Euro,Solo,Press,10,28,82.0,0.0,FA Euro,U14,Press,1373
+FA Euro,Solo,Press,10,28,,,FA Euro,U14,Press,1373
 FA Euro,Start,Pass,82,0,94.0,19.0,FA Euro,U14,"Cutback, Throw In",89
 FA Euro,Middle,Pass,94,19,93.0,45.0,FA Euro,U14,"Cutback, Throw In",89
 FA Euro,End,Cutback,93,45,93.0,45.0,FA Euro,U14,"Cutback, Throw In",89
@@ -425,13 +425,13 @@ Bayside,Start,Pass,43,73,50.0,70.0,Bayside,U17,Direct Play,102
 Bayside,Middle,Pass,50,70,52.0,64.0,Bayside,U17,Direct Play,102
 Bayside,Middle,Dribble,52,64,71.0,68.0,Bayside,U17,Direct Play,102
 Bayside,End,Direct Play,71,68,,,Bayside,U17,Direct Play,102
-Bayside,Solo,Free Kick,75,35,90.0,67.0,Bayside,U17,Free Kick,1426
-Beachside,Solo,Counterpress,90,67,8.0,10.0,Beachside,U17,Counterpress,1427
+Bayside,Solo,Free Kick,75,35,,,Bayside,U17,Free Kick,1426
+Beachside,Solo,Counterpress,90,67,,,Beachside,U17,Counterpress,1427
 Beachside,Start,Pass,8,10,5.0,24.0,Beachside,U17,Counterattack,103
 Beachside,Middle,Pass,5,24,6.0,48.0,Beachside,U17,Counterattack,103
 Beachside,End,Counterattack,6,48,,,Beachside,U17,Counterattack,103
-U17,Solo,Free Kick,84,50,11.0,50.0,Beachside,U17,Free Kick,1431
-U17,Solo,Penalty,11,50,66.0,13.0,Cedar Stars,U17,Penalty,1432
+U17,Solo,Free Kick,84,50,,,Beachside,U17,Free Kick,1431
+U17,Solo,Penalty,11,50,,,Cedar Stars,U17,Penalty,1432
 Cedar Stars,Start,Pass,66,13,92.0,49.0,Cedar Stars,U17,Free Kick,104
 Cedar Stars,End,Free Kick,92,49,,,Cedar Stars,U17,Free Kick,104
 U17,Start,Pass,21,11,40.0,17.0,IFA,U17,Sustained Possession,105
@@ -476,7 +476,7 @@ U17,End,Sustained Possession,88,46,,,NEFC,U17,Sustained Possession,114
 NEFC,Start,Dribble,44,49,27.0,28.0,NEFC,U17,Counterattack,115
 NEFC,Middle,Pass,27,28,8.0,56.0,NEFC,U17,Counterattack,115
 NEFC,End,Counterattack,8,56,,,NEFC,U17,Counterattack,115
-NEFC,Solo,Free Kick,19,92,27.0,40.0,NEFC,U17,Free Kick,1477
+NEFC,Solo,Free Kick,19,92,,,NEFC,U17,Free Kick,1477
 NEFC,Start,Pass,27,40,16.0,35.0,NEFC,U17,Counterattack,116
 NEFC,End,Counterattack,16,35,,,NEFC,U17,Counterattack,116
 NEFC,Start,Pass,86,68,97.0,57.0,NEFC,U17,Direct Play,117
@@ -487,7 +487,7 @@ U17,Start,Pass,72,43,88.0,29.0,Oakwood,U17,Cutback,119
 U17,Middle,Dribble,88,29,98.0,33.0,Oakwood,U17,Cutback,119
 U17,Middle,Pass,98,33,95.0,58.0,Oakwood,U17,Cutback,119
 U17,End,Cutback,95,58,,,Oakwood,U17,Cutback,119
-U17,Solo,Penalty,11,50,61.0,72.0,Oakwood,U17,Penalty,1488
+U17,Solo,Penalty,11,50,,,Oakwood,U17,Penalty,1488
 U17,Start,Pass,61,72,70.0,68.0,Oakwood,U17,Direct Play,120
 U17,Middle,Dribble,70,68,83.0,63.0,Oakwood,U17,Direct Play,120
 U17,Middle,Pass,83,63,94.0,40.0,Oakwood,U17,Direct Play,120
@@ -516,7 +516,7 @@ U17,Middle,Pass,27,78,19.0,91.0,Seacoast,U17,Sustained Possession,124
 U17,Middle,Pass,19,91,22.0,69.0,Seacoast,U17,Sustained Possession,124
 U17,Middle,Pass,22,69,26.0,46.0,Seacoast,U17,Sustained Possession,124
 U17,End,Sustained Possession,26,46,,,Seacoast,U17,Sustained Possession,124
-Seacoast,Solo,Penalty,89,50,37.0,66.0,Seacoast,U17,Penalty,1517
+Seacoast,Solo,Penalty,89,50,,,Seacoast,U17,Penalty,1517
 U17,Start,Pass,37,66,3.0,72.0,Valeo,U17,Cutback,125
 U17,Middle,Pass,3,72,4.0,53.0,Valeo,U17,Cutback,125
 U17,End,Cutback,4,53,,,Valeo,U17,Cutback,125
@@ -542,7 +542,7 @@ U17,Start,Corner Kick,98,95,93.0,94.0,Valeo,U17,Corner Kick,131
 U17,Middle,Dribble,93,94,83.0,75.0,Valeo,U17,Corner Kick,131
 U17,Middle,Pass,83,75,95.0,49.0,Valeo,U17,Corner Kick,131
 U17,End,Corner Kick,95,49,,,Valeo,U17,Corner Kick,131
-U17,Solo,Free Kick,79,28,68.0,21.0,Valeo,U17,Free Kick,1543
+U17,Solo,Free Kick,79,28,,,Valeo,U17,Free Kick,1543
 Valeo,Start,Pass,68,21,93.0,34.0,Valeo,U17,Free Kick,132
 Valeo,End,Free Kick,93,34,,,Valeo,U17,Free Kick,132
 Valeo,Start,Pass,25,42,72.0,85.0,Valeo,U17,Direct Play,133
@@ -554,14 +554,14 @@ U17,Middle,Pass,28,27,78.0,19.0,Westchester,U17,Direct Play,134
 U17,Middle,Dribble,78,19,99.0,21.0,Westchester,U17,Direct Play,134
 U17,Middle,Pass,99,21,96.0,44.0,Westchester,U17,Direct Play,134
 U17,End,Direct Play,96,44,,,Westchester,U17,Direct Play,134
-Westchester,Solo,Penalty,89,50,76.0,21.0,Westchester,U17,Penalty,1555
+Westchester,Solo,Penalty,89,50,,,Westchester,U17,Penalty,1555
 Beachside,Start,Pass,76,21,82.0,36.0,Beachside,U19,Counterattack,135
 Beachside,Middle,Pass,82,36,78.0,60.0,Beachside,U19,Counterattack,135
 Beachside,End,Counterattack,78,60,,,Beachside,U19,Counterattack,135
 U19,Start,Pass,13,1,24.0,6.0,Beachside,U19,Throw In,136
 U19,Middle,Pass,24,6,8.0,60.0,Beachside,U19,Throw In,136
 U19,End,Throw In,8,60,,,Beachside,U19,Throw In,136
-U19,Solo,Penalty,89,50,25.0,85.0,Cedar Stars,U19,Penalty,1562
+U19,Solo,Penalty,89,50,,,Cedar Stars,U19,Penalty,1562
 Cedar Stars,Start,Pass,25,85,7.0,44.0,Cedar Stars,U19,Free Kick,137
 Cedar Stars,End,Free Kick,7,44,,,Cedar Stars,U19,Free Kick,137
 Cedar Stars,Start,Dribble,35,50,30.0,49.0,Cedar Stars,U19,Counterpress,138
@@ -620,7 +620,7 @@ New York SC,Start,Dribble,16,21,5.0,29.0,New York SC,U19,Cutback,156
 New York SC,Middle,Pass,5,29,7.0,47.0,New York SC,U19,Cutback,156
 New York SC,Middle,Pass,7,47,12.0,49.0,New York SC,U19,Cutback,156
 New York SC,End,Cutback,12,49,,,New York SC,U19,Cutback,156
-U19,Solo,Penalty,89,50,88.0,73.0,New York SC,U19,Penalty,1621
+U19,Solo,Penalty,89,50,,,New York SC,U19,Penalty,1621
 NYCFC,Start,Pass,88,73,79.0,49.0,NYCFC,U19,Cutback,157
 NYCFC,Middle,Pass,79,49,98.0,54.0,NYCFC,U19,Cutback,157
 NYCFC,End,Cutback,98,54,,,NYCFC,U19,Cutback,157
