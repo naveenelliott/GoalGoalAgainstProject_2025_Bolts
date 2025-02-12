@@ -1,0 +1,16 @@
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2
+U-16,Solo,Penalty,0,0,11,50,-,-
+U-16,Start,Cross,0,0,26,83,-,-
+U-16,End,Free Kick,0,0,5,64,-,-
+U-16,Start,Dribble,0,0,12,87,2,69
+U-16,Middle,Pass,0,0,1,67,5,54
+U-16,End,Direct Play,0,0,5,60,-,-
+U-16,Start,Pass,0,0,2,98,3,77
+U-16,Middle,Pass,0,0,4,74,-,-
+U-16,Middle,Dribble,0,0,1,74,2,62
+U-16,End,Corner Kick,0,0,2,62,-,-
+U-16,Start,Pass,0,0,63,89,70,72
+U-16,Middle,Dribble,0,0,69,71,94,65
+U-16,End,Direct Play,0,0,94,64,-,-
+Beachside,Start,Cross,0,0,2,97,6,57
+Beachside,End,Corner Kick,0,0,6,60,-,-

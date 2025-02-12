@@ -1,0 +1,10 @@
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2
+NYCFC,Solo,Dribble,0,0,68,88,83,58
+NYCFC,End,Counter attack,0,0,84,56,-,-
+NYCFC,Start,Cross,0,0,25,82,77,68
+NYCFC,Middle,Dribble,0,0,79,70,96,59
+NYCFC,End,Direct Play,0,0,95,59,-,-
+U-16,Start,Dribble,0,0,80,35,84,56
+U-16,Middle,Pass,0,0,83,58,88,70
+U-16,End,Sustained Possesion,0,0,89,70,-,-
+U-16,Solo,Penalty,0,0,89,51,-,-
