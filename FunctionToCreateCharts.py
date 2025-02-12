@@ -4,6 +4,7 @@ import numpy as np
 from mplsoccer import Pitch
 from highlight_text import fig_text
 from matplotlib.font_manager import FontProperties
+import matplotlib.pyplot as plt
 
 df = pd.read_csv('FormattedGoalsGoalsAgainst.csv')
 
@@ -11,7 +12,7 @@ font_path = 'AccidentalPresidency.ttf'
 title = FontProperties(fname=font_path)
 
 
-def createChart(dataframe, team_name_bolts, category, bolts_percent, opp_percent):
+def createChart(dataframe, team_name_bolts, category, bolts_percent, opp_percent, bolts_count, opp_count):
 
     # Create the pitch using mplsoccer
     pitch = Pitch(pitch_type='custom', pitch_length=100, pitch_width=100, line_color='black')
@@ -25,7 +26,7 @@ def createChart(dataframe, team_name_bolts, category, bolts_percent, opp_percent
 
     for seq_id in dataframe["Sequence_ID"].unique():
         seq_data = dataframe[dataframe["Sequence_ID"] == seq_id]
-        end_row = seq_data[seq_data["Player"] == "End"]
+        end_row = seq_data[(seq_data["Player"] == "End") | (seq_data['Player'] == 'Solo')]
         
         if not end_row.empty:
             team_name = end_row.iloc[-1]["Team"]
@@ -44,7 +45,7 @@ def createChart(dataframe, team_name_bolts, category, bolts_percent, opp_percent
 
     for seq_id in dataframe["Sequence_ID"].unique():
         seq_data = dataframe[dataframe["Sequence_ID"] == seq_id]
-        end_row = seq_data[seq_data["Player"] == "End"]
+        end_row = seq_data[(seq_data["Player"] == "End") | (seq_data['Player'] == 'Solo')]
         
         if not end_row.empty:
             team_name = end_row.iloc[-1]["Team"]
@@ -80,17 +81,20 @@ def createChart(dataframe, team_name_bolts, category, bolts_percent, opp_percent
     )
     
     fig_text(
-        x = 0.5, y = 1, 
-        s = f"Goals from {category}: {bolts_percent}%",
+        x = 0.5, y = 1.02, 
+        s = f"Goals from {category}: {bolts_count} ({bolts_percent}%)",
         va = "bottom", ha='center',
         color = "#68B5E8", fontproperties = title, size=20
     )
     fig_text(
-        x = 0.5, y = .95, 
-        s = f'Goals Against from {category}: {opp_percent}%',
+        x = 0.5, y = .97, 
+        s = f'Goals Against from {category}: {opp_count} ({opp_percent}%)',
         va = "bottom", ha='center',
         color = "red", fontproperties = title, size=20
         )
+    
+    fig.savefig(f"{team_name_bolts}_Plots/{category}.png", bbox_inches='tight', pad_inches=0.5)
+    
 
 #team_names = ['U13', 'U14', 'U15', 'U16', 'U17', 'U19']
 team_names = ['U13', 'U14', 'U17', 'U19']
@@ -119,20 +123,25 @@ for team in team_names:
         event_goal_percentage_bolts = event_goal_percentage_bolts.get(cat, 0)
         event_goal_percentage_bolts = int(event_goal_percentage_bolts)
         
+        goal_event_counts = goal_event_counts.get(cat, 0)
+        
         
         percent_df_opp = percent_df.loc[percent_df['Bolts Team'] == team]
         percent_df_opp = percent_df_opp.loc[percent_df_opp['Team'] != team]
 
         # Step 3: Count occurrences of each event within goal sequences
         event_counts = percent_df_opp["Sequence_ID"].nunique()  # Total sequences containing each event
-        goal_event_counts = percent_df_opp.groupby("Event")["Sequence_ID"].nunique()  # Sequences with event that resulted in a goal
+        goal_event_counts_opp = percent_df_opp.groupby("Event")["Sequence_ID"].nunique()  # Sequences with event that resulted in a goal
 
         # Step 4: Compute percentage of sequences with each event that resulted in a goal
-        event_goal_percentage_opp = (goal_event_counts / event_counts * 100).fillna(0)
+        event_goal_percentage_opp = (goal_event_counts_opp / event_counts * 100).fillna(0)
         event_goal_percentage_opp = event_goal_percentage_opp.get(cat, 0)
         event_goal_percentage_opp = int(event_goal_percentage_opp)
+        
+        goal_event_counts_opp = goal_event_counts_opp.get(cat, 0)
         
         temp_df = temp_df[temp_df["Category"].str.contains(cat, na=False)]
         
         
-        createChart(temp_df, team, cat, event_goal_percentage_bolts, event_goal_percentage_opp)
+        createChart(temp_df, team, cat, event_goal_percentage_bolts, event_goal_percentage_opp, 
+                    goal_event_counts, goal_event_counts_opp)
