@@ -96,8 +96,8 @@ def createChart(dataframe, team_name_bolts, category, bolts_percent, opp_percent
     fig.savefig(f"{team_name_bolts}_Plots/{category}.png", bbox_inches='tight', pad_inches=0.5)
     
 
-#team_names = ['U13', 'U14', 'U15', 'U16', 'U17', 'U19']
-team_names = ['U13', 'U14', 'U17', 'U19']
+team_names = ['U13', 'U14', 'U15', 'U16', 'U17', 'U19']
+#team_names = ['U13', 'U14', 'U17', 'U19']
 
 df["Event"] = df["Event"].str.replace(r"Sustained Possession \*", "Sustained Possession", regex=True)
 
