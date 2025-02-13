@@ -1,0 +1,7 @@
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2
+NYCFC,Start,Pass,0,0,10,83,5,70
+NYCFC,Middle,Dribble,0,0,7,67,10,62
+NYCFC,End,Direct Play,0,0,9,60,-,-
+NYCFC,Solo,Dribble,0,0,31,28,8,38
+NYCFC,End,Direct Play,0,0,8,40,-,-
+U-15,Solo,Counterpress,0,0,78,37,-,-

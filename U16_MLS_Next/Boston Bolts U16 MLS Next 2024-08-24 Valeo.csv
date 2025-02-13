@@ -1,0 +1,14 @@
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2
+U-16,Start,Dribble,0,0,74,87,81,63
+U-16,Middle,Pass,0,0,84,64,92,64
+U-16,End,Direct Play,0,0,93,63,-,-
+U-16,Start,Pass,0,0,45,6,26,8
+U-16,Middle,Pass,0,0,25,9,17,15
+U-16,Middle,Dribble,0,0,14,18,5,38
+U-16,End,Direct Play,0,0,5,41,-,-
+U-16,Start,Pass,0,0,32,67,30,31
+U-16,Middle,Dribble,0,0,29,30,26,35
+U-16,Middle,Pass,0,0,25,39,4,64
+U-16,End,Sustained Possesion,0,0,3,62,-,-
+U-16,Start,Pass,0,0,24,55,11,39
+U-16,End,Counterpress,0,0,11,40,-,-

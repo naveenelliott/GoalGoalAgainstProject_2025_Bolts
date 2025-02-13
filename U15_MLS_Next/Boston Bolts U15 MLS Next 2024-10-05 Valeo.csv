@@ -1,0 +1,8 @@
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2
+Valeo,Start,Pass,0,0,68,59,79,43
+Valeo,End,Counterpress,0,0,79,40,-,-
+Valeo,Solo,Dribble,0,0,59,68,92,60
+Valeo,End,Counter attack,0,0,92,60,-,-
+U-15,Start,Dribble,0,0,84,11,97,25
+U-15,Middle,Pass,0,0,98,33,92,52
+U-15,End,Cut back,0,0,94,47,-,-
