@@ -1,5 +1,5 @@
 Team,Player,Event,Mins,Secs,X,Y,X2,Y2,Opposition
-Cedar Stars,Start,Dribble,10,73,67,79,53,,Cedar Stars
+Cedar Stars,Start,Dribble,0,10,73,67,79,53,Cedar Stars
 Cedar Stars,Middle,Pass,0,10,81,53,89,34,Cedar Stars
 Cedar Stars,End,Direct Play,0,10,88,36,-,-,Cedar Stars
 U-15,Start,Pass,0,10,31,64,15,46,Cedar Stars
@@ -7,10 +7,4 @@ U-15,End,Counterpress,0,10,12,46,-,-,Cedar Stars
 U-15,Start,Pass,0,10,33,33,25,58,Cedar Stars
 U-15,Middle,Dribble,0,10,27,57,11,48,Cedar Stars
 U-15,End,Counterattack,0,10,11,44,-,-,Cedar Stars
-Cedar Stars,Start,,,,,,,,Cedar Stars
-Cedar Stars,Start,Shot,10,92,40,-,-,,Cedar Stars
-Cedar Stars,End,Direct Play,0,10,92,59,-,-,Cedar Stars
-Cedar Stars,Start,Dribble,10,15,87,3,73,,Cedar Stars
-Cedar Stars,Middle,Pass,0,10,2,72,9,44,Cedar Stars
-Cedar Stars,End,Cutback,0,10,8,42,-,-,Cedar Stars
 U-15,Solo,Penalty,0,10,89,51,-,-,Cedar Stars

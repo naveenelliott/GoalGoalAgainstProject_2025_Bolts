@@ -96,6 +96,14 @@ for filename in os.listdir(folder_path):
 # Concatenate all DataFrames into a single DataFrame (if needed)
 u15 = pd.concat(dfs, ignore_index=True)  # Set ignore_index=True to reset row indexes
 
+u15['Event'] = u15['Event'].str.replace("Cut back", "Cutback")
+u15['Event'] = u15['Event'].str.replace("Sustained Possesion", "Sustained Possession")
+u15['Event'] = u15['Event'].str.replace("Counter attack", "Counterattack")
+u15.loc[u15['Event'] == 'Corner', 'Event'] = 'Corner Kick'
+
+u15_shot = u15.loc[u15['Event'] == 'Shot']
+
+
 # Specify the path to the folder containing CSV files
 folder_path = 'U16_MLS_Next'
 
@@ -127,6 +135,12 @@ for filename in os.listdir(folder_path):
 
 # Concatenate all DataFrames into a single DataFrame (if needed)
 u16 = pd.concat(dfs, ignore_index=True)  # Set ignore_index=True to reset row indexes
+
+u16['Event'] = u16['Event'].str.replace("Counter attack", "Counterattack")
+u16['Event'] = u16['Event'].str.replace("Sustained Possesion", "Sustained Possession")
+u16['Event'] = u16['Event'].str.replace("Cut back", "Cutback")
+
+u16_shot = u16.loc[u16['Event'] == 'Shot']
 
 # Specify the path to the folder containing CSV files
 folder_path = 'U17 MLS Next'
@@ -197,6 +211,8 @@ u19['Opposition'] = u19['Opponent']
 del u19['Opponent']
 
 total = pd.concat([u13, u14, u15, u16, u17, u19], ignore_index=True)
+
+temp_total = total.copy()
 
 total = total.dropna()
 
@@ -278,11 +294,6 @@ for seq_id in total["Sequence_ID"].unique():
 total.to_csv('FormattedGoalsGoalsAgainst.csv', index=False)
 
 total = total[total["Category"].str.contains("Sustained Possession", na=False)]
-
-# Create the pitch using mplsoccer
-pitch = Pitch(pitch_type='custom', pitch_length=100, pitch_width=100, line_color='black')
-
-fig, ax = pitch.draw(figsize=(10, 6))
 
 # Step 1: Identify sequences where the last row's X is less than 50
 sequences_to_flip = set()

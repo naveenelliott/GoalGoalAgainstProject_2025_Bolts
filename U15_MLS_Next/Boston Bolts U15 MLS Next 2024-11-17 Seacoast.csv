@@ -1,6 +1,5 @@
 Team,Player,Event,Mins,Secs,X,Y,X2,Y2,Opposition
-Seacoast,Start,Dribble,10,74,15,92,32,,Seacoast
-Seacoast,Middle,Shot,0,10,92,36,-,-,Seacoast
+Seacoast,Start,Dribble,0,10,74,15,92,32,Seacoast
 Seacoast,End,Direct Play,0,10,94,59,-,-,Seacoast
 U-15,Start,Pass,0,10,14,42,8,53,Seacoast
 U-15,Middle,Pass,0,10,7,55,16,62,Seacoast
@@ -8,6 +7,6 @@ U-15,End,Sustained Possession,0,10,9,60,-,-,Seacoast
 U-15,Start,Pass,0,10,99,4,93,37,Seacoast
 U-15,Middle,Pass,0,10,91,36,93,50,Seacoast
 U-15,End,Corner,0,10,94,59,-,-,Seacoast
-Seacoast,Start,Pass,10,21,11,39,22,,Seacoast
+Seacoast,Start,Pass,0,10,21,11,39,22,Seacoast
 Seacoast,Middle,Pass,0,10,39,29,12,57,Seacoast
 Seacoast,End,Sustained Possession,0,10,10,44,-,-,Seacoast
