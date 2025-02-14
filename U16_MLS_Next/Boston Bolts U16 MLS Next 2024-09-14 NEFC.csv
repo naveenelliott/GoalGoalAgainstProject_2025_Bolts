@@ -1,3 +1,3 @@
-Team,Player,Event,Mins,Secs,X,Y,X2,Y2
-NEFC,Start,Pass,0,0,72,71,86,49
-NEFC,End,Direct Play,0,0,87,43,-,-
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2,Opposition
+NEFC,Start,Pass,0,0,72,71,86,49,NEFC
+NEFC,End,Direct Play,0,0,87,43,-,-,NEFC

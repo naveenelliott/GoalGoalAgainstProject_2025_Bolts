@@ -1,12 +1,12 @@
-Team,Player,Event,Mins,Secs,X,Y,X2,Y2
-IFA,Start,Pass,0,0,19,13,8,47
-IFA,End,Counter attack,0,0,8,49,-,-
-U-16,Start,Pass,0,0,41,33,79,77
-U-16,Middle,Dribble,0,0,80,74,84,62
-U-16,End,Direct Play,0,0,84,66,-,-
-IFA,Start,Dribble,0,0,9,82,4,65
-IFA,Middle,Pass,0,0,2,63,5,43
-IFA,End,Direct Play,0,0,3,42,-,-
-U-16,Solo,Penalty,0,0,11,51,-,-
-U-16,Start,Pass,0,0,31,18,3,36
-U-16,End,Direct Play,0,0,4,38,-,-
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2,Opposition
+IFA,Start,Pass,0,0,19,13,8,47,IFA
+IFA,End,Counter attack,0,0,8,49,-,-,IFA
+U-16,Start,Pass,0,0,41,33,79,77,IFA
+U-16,Middle,Dribble,0,0,80,74,84,62,IFA
+U-16,End,Direct Play,0,0,84,66,-,-,IFA
+IFA,Start,Dribble,0,0,9,82,4,65,IFA
+IFA,Middle,Pass,0,0,2,63,5,43,IFA
+IFA,End,Direct Play,0,0,3,42,-,-,IFA
+U-16,Solo,Penalty,0,0,11,51,-,-,IFA
+U-16,Start,Pass,0,0,31,18,3,36,IFA
+U-16,End,Direct Play,0,0,4,38,-,-,IFA

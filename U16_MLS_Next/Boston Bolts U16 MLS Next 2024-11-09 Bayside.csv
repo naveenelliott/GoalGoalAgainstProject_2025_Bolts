@@ -1,9 +1,9 @@
-Team,Player,Event,Mins,Secs,X,Y,X2,Y2
-U-16,Start,Dribble,0,0,67,25,74,35
-U-16,Middle,Pass,0,0,76,38,82,40
-U-16,Middle,Dribble,0,0,84,43,87,55
-U-16,End,Sustained Possesion,0,0,86,57,-,-
-Bayside,Solo,Counterpress,0,0,64,24,-,-
-U-16,Solo,Penalty,0,0,11,50,-,-
-Bayside,Start,Pass,0,0,98,20,84,58
-Bayside,End,Cut back,0,0,84,62,-,-
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2,Opposition
+U-16,Start,Dribble,0,0,67,25,74,35,Bayside
+U-16,Middle,Pass,0,0,76,38,82,40,Bayside
+U-16,Middle,Dribble,0,0,84,43,87,55,Bayside
+U-16,End,Sustained Possesion,0,0,86,57,-,-,Bayside
+Bayside,Solo,Counterpress,0,0,64,24,-,-,Bayside
+U-16,Solo,Penalty,0,0,11,50,-,-,Bayside
+Bayside,Start,Pass,0,0,98,20,84,58,Bayside
+Bayside,End,Cut back,0,0,84,62,-,-,Bayside

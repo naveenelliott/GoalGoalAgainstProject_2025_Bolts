@@ -1,12 +1,12 @@
-Team,Player,Event,Mins,Secs,X,Y,X2,Y2
-U-16,Solo,Free Kick,0,0,79,33,-,-
-U-16,Start,Cross,0,0,81,90,-,-
-U-16,End,Direct Play,0,0,95,35,-,-
-Toronto,Start,Dribble,0,0,22,70,7,78
-Toronto,Middle,Pass,0,0,8,78,6,41
-Toronto,End,Direct Play,0,0,5,37,-,-
-Toronto,Start,Dribble,0,0,83,7,95,23
-Toronto,Middle,Pass,0,0,96,32,95,53
-Toronto,End,Direct Play,0,0,94,57,-,-
-Toronto,Start,Pass,0,0,69,39,87,34
-Toronto,End,Counter attack,0,0,87,35,-,-
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2,Opposition
+U-16,Solo,Free Kick,0,0,79,33,-,-,Toronto
+U-16,Start,Cross,0,0,81,90,-,-,Toronto
+U-16,End,Direct Play,0,0,95,35,-,-,Toronto
+Toronto,Start,Dribble,0,0,22,70,7,78,Toronto
+Toronto,Middle,Pass,0,0,8,78,6,41,Toronto
+Toronto,End,Direct Play,0,0,5,37,-,-,Toronto
+Toronto,Start,Dribble,0,0,83,7,95,23,Toronto
+Toronto,Middle,Pass,0,0,96,32,95,53,Toronto
+Toronto,End,Direct Play,0,0,94,57,-,-,Toronto
+Toronto,Start,Pass,0,0,69,39,87,34,Toronto
+Toronto,End,Counter attack,0,0,87,35,-,-,Toronto
