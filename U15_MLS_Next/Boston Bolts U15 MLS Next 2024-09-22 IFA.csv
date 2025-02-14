@@ -1,7 +1,7 @@
-Team,Player,Event,Mins,Secs,X,Y,X2,Y2
-IFA,Start,Cross,0,0,67,61,-,-
-IFA,Middle,Pass,0,0,89,43,-,-
-IFA,End,Direct Play,0,0,93,53,-,-
-U-15,Start,Dribble,0,0,75,19,82,29
-U-15,Middle,Pass,0,0,81,28,90,66
-U-15,End,Direct Play,0,0,92,63,-,-
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2,Opposition
+IFA,Start,Cross,0,0,67,61,-,-,IFA
+IFA,Middle,Pass,0,0,89,43,-,-,IFA
+IFA,End,Direct Play,0,0,93,53,-,-,IFA
+U-15,Start,Dribble,0,0,75,19,82,29,IFA
+U-15,Middle,Pass,0,0,81,28,90,66,IFA
+U-15,End,Direct Play,0,0,92,63,-,-,IFA

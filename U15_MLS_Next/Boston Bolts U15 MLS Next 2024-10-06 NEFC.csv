@@ -1,6 +1,6 @@
-Team,Player,Event,Mins,Secs,X,Y,X2,Y2
-NEFC,Start,Cross,0,0,38,12,8,36
-NEFC,Middle,Pass,0,0,8,41,4,62
-NEFC,End,Direct Play,0,0,4,59,-,-
-NEFC,Solo,Dribble,0,0,64,61,77,49
-NEFC,End,Counterpress,0,0,78,51,-,-
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2,Opposition
+NEFC,Start,Cross,0,0,38,12,8,36,NEFC
+NEFC,Middle,Pass,0,0,8,41,4,62,NEFC
+NEFC,End,Direct Play,0,0,4,59,-,-,NEFC
+NEFC,Solo,Dribble,0,0,64,61,77,49,NEFC
+NEFC,End,Counterpress,0,0,78,51,-,-,NEFC

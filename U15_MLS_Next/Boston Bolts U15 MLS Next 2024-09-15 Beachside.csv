@@ -1,7 +1,7 @@
-Team,Player,Event,Mins,Secs,X,Y,X2,Y2
-U-15,Start,Pass,0,0,25,25,15,47
-U-15,Middle,Dribble,0,0,14,48,8,38
-U-15,End,Sustained Possesion,0,0,7,38,-,-
-U-15,Start,Pass,0,0,78,62,88,72
-U-15,Middle,Dribble,0,0,88,71,95,65
-U-15,End,Counterpress,0,0,97,61,-,-
+Team,Player,Event,Mins,Secs,X,Y,X2,Y2,Opposition
+U-15,Start,Pass,0,0,25,25,15,47,Beachside
+U-15,Middle,Dribble,0,0,14,48,8,38,Beachside
+U-15,End,Sustained Possesion,0,0,7,38,-,-,Beachside
+U-15,Start,Pass,0,0,78,62,88,72,Beachside
+U-15,Middle,Dribble,0,0,88,71,95,65,Beachside
+U-15,End,Counterpress,0,0,97,61,-,-,Beachside
