@@ -8,7 +8,7 @@ IFA,Start,Pass,74,7,63,67,74,21
 IFA,Middle,Pass,74,7,74,20,95,56
 IFA,End,Sustained Possession,74,7,95,56,-,-
 U19,Start,Pass,74,7,23,85,5,43
-IFA,End,Free Kick,74,7,5,43,-,-
+U19,End,Free Kick,74,7,5,43,-,-
 IFA,Start,Pass,74,7,34,42,25,63
 IFA,Middle,Dribble,74,7,24,63,9,67
 IFA,End,Sustained Possession,74,7,9,68,-,-

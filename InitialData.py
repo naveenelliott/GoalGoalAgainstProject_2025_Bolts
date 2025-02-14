@@ -65,6 +65,70 @@ for filename in os.listdir(folder_path):
 u14 = pd.concat(dfs, ignore_index=True)  # Set ignore_index=True to reset row indexes
 
 # Specify the path to the folder containing CSV files
+folder_path = 'U15_MLS_Next'
+
+# Initialize an empty list to store DataFrames
+dfs = []
+
+# Loop through all files in the folder
+for filename in os.listdir(folder_path):
+    if filename.endswith('.csv'):  # Check if the file is a CSV file
+        file_path = os.path.join(folder_path, filename)
+        # Read the CSV file into a DataFrame
+        df = pd.read_csv(file_path)
+        
+        df['Team'] = df['Team'].str.replace("U-15", "U15")
+        
+        df['Bolts Team'] = "U15"
+
+        # Ensure 'Opposition' column exists
+        if 'Opposition' not in df.columns:
+            # Extract the other team name from the 'Team' column if available
+            unique_teams = df['Team'].unique()
+            if len(unique_teams) > 1:
+                opposition_team = [team for team in unique_teams if team != "U15"]
+                df['Opposition'] = opposition_team[0] if opposition_team else "Unknown"
+            else:
+                df['Opposition'] = unique_teams[0]
+        # Append the DataFrame to the list
+        dfs.append(df)
+
+# Concatenate all DataFrames into a single DataFrame (if needed)
+u15 = pd.concat(dfs, ignore_index=True)  # Set ignore_index=True to reset row indexes
+
+# Specify the path to the folder containing CSV files
+folder_path = 'U16_MLS_Next'
+
+# Initialize an empty list to store DataFrames
+dfs = []
+
+# Loop through all files in the folder
+for filename in os.listdir(folder_path):
+    if filename.endswith('.csv'):  # Check if the file is a CSV file
+        file_path = os.path.join(folder_path, filename)
+        # Read the CSV file into a DataFrame
+        df = pd.read_csv(file_path)
+        
+        df['Team'] = df['Team'].str.replace("U-16", "U16")
+        
+        df['Bolts Team'] = "U16"
+
+        # Ensure 'Opposition' column exists
+        if 'Opposition' not in df.columns:
+            # Extract the other team name from the 'Team' column if available
+            unique_teams = df['Team'].unique()
+            if len(unique_teams) > 1:
+                opposition_team = [team for team in unique_teams if team != "U16"]
+                df['Opposition'] = opposition_team[0] if opposition_team else "Unknown"
+            else:
+                df['Opposition'] = unique_teams[0]
+        # Append the DataFrame to the list
+        dfs.append(df)
+
+# Concatenate all DataFrames into a single DataFrame (if needed)
+u16 = pd.concat(dfs, ignore_index=True)  # Set ignore_index=True to reset row indexes
+
+# Specify the path to the folder containing CSV files
 folder_path = 'U17 MLS Next'
 
 # Initialize an empty list to store DataFrames
@@ -132,7 +196,7 @@ u19['Opposition'] = u19['Opponent']
 
 del u19['Opponent']
 
-total = pd.concat([u13, u14, u17, u19], ignore_index=True)
+total = pd.concat([u13, u14, u15, u16, u17, u19], ignore_index=True)
 
 total = total.dropna()
 
@@ -261,15 +325,3 @@ total.loc[flip_mask, "Y"] = 100 - total.loc[flip_mask, "Y"]
 total.loc[flip_mask, "X2"] = 100 - total.loc[flip_mask, "X2"]
 total.loc[flip_mask, "Y2"] = 100 - total.loc[flip_mask, "Y2"]
 
-# Plot sequences
-for _, row in total.iterrows():
-    if row['Team'] in team_names:
-        if not np.isnan(row["X2"]) and not np.isnan(row["Y2"]):
-            pitch.arrows(row["X"], row["Y"], row["X2"], row["Y2"], width=2, headwidth=3, color="#68B5E8", ax=ax)
-        else:
-            pitch.scatter(row["X"], row["Y"], color="#68B5E8", s=50, ax=ax)
-    else:
-        if not np.isnan(row["X2"]) and not np.isnan(row["Y2"]):
-            pitch.arrows(row["X"], row["Y"], row["X2"], row["Y2"], width=2, headwidth=3, color="red", ax=ax)
-        else:
-            pitch.scatter(row["X"], row["Y"], color="red", s=50, ax=ax)

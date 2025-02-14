@@ -8,6 +8,10 @@ import matplotlib.pyplot as plt
 
 df = pd.read_csv('FormattedGoalsGoalsAgainst.csv')
 
+df.loc[584, "Team"] = "U19"
+
+u13_throwin = df.loc[(df['Bolts Team'] == 'U13') & (df['Category'] == 'Throw In')]
+
 font_path = 'AccidentalPresidency.ttf'
 title = FontProperties(fname=font_path)
 
