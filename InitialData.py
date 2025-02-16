@@ -27,6 +27,13 @@ for filename in os.listdir(folder_path):
                 df['Opposition'] = opposition_team[0] if opposition_team else "Unknown"
             else:
                 df['Opposition'] = unique_teams[0]
+                
+        # Add 3 to the 'X' coordinate and ensure it doesn't exceed 100
+        df['X'] = (df['X'] + 3).clip(upper=100)
+        
+        # If the 'X2' column exists, add 3 where it's not NA and ensure it doesn't exceed 100
+        if 'X2' in df.columns:
+            df.loc[df['X2'].notna(), 'X2'] = (df.loc[df['X2'].notna(), 'X2'] + 3).clip(upper=100)
         
         # Append the DataFrame to the list
         dfs.append(df)

@@ -41,9 +41,9 @@ def createChart(dataframe, team_name_bolts, category, bolts_percent, opp_percent
     flip_mask = dataframe["Sequence_ID"].isin(sequences_to_flip)
 
     dataframe.loc[flip_mask, "X"] = 100 - dataframe.loc[flip_mask, "X"]
-    dataframe.loc[flip_mask, "Y"] = 100 - dataframe.loc[flip_mask, "Y"]
+    #dataframe.loc[flip_mask, "Y"] = 100 - dataframe.loc[flip_mask, "Y"]
     dataframe.loc[flip_mask, "X2"] = 100 - dataframe.loc[flip_mask, "X2"]
-    dataframe.loc[flip_mask, "Y2"] = 100 - dataframe.loc[flip_mask, "Y2"]
+    #dataframe.loc[flip_mask, "Y2"] = 100 - dataframe.loc[flip_mask, "Y2"]
 
     sequences_to_flip = set()
 
@@ -60,9 +60,9 @@ def createChart(dataframe, team_name_bolts, category, bolts_percent, opp_percent
     flip_mask = dataframe["Sequence_ID"].isin(sequences_to_flip)
 
     dataframe.loc[flip_mask, "X"] = 100 - dataframe.loc[flip_mask, "X"]
-    dataframe.loc[flip_mask, "Y"] = 100 - dataframe.loc[flip_mask, "Y"]
+    #dataframe.loc[flip_mask, "Y"] = 100 - dataframe.loc[flip_mask, "Y"]
     dataframe.loc[flip_mask, "X2"] = 100 - dataframe.loc[flip_mask, "X2"]
-    dataframe.loc[flip_mask, "Y2"] = 100 - dataframe.loc[flip_mask, "Y2"]
+    #dataframe.loc[flip_mask, "Y2"] = 100 - dataframe.loc[flip_mask, "Y2"]
 
     # Plot sequences
     for _, row in dataframe.iterrows():
